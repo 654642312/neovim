@@ -3,7 +3,7 @@
 
 ## dependencies
 
-you need to install a plugin manager, install and yarn
+you need to install a plugin manager and yarn
 
 [Plug mannager](https://github.com/junegunn/vim-plug)
 
